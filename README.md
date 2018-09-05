@@ -1,3 +1,3 @@
 # Django Blog Mini-Project
 
-A simple blog appwritten using Django.
+A simple blog app written using Django.
